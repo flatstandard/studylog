@@ -12,9 +12,9 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://flatstandard.github.io/studylog/"
-languageCode = "en-ja"
-defaultContentLanguage = "en-ja"
+baseurl = ""
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Hugo tranquilpeak theme"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
